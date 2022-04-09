@@ -1,1 +1,1 @@
-# Buffer-SAP-BSAP-
+Set of FORTRAN codes and script files for the calculation of Spatial Aggregation Propensity (SAP) of proteins, including the effect of buffer histidine on the solvent accessible area of the protein, from GROMACS MD trajectories. The scripts use GROMACS analysis code gmx to calculate the solvent accessible surface area.
